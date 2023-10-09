@@ -1,0 +1,8 @@
+---
+title: "Nootes"
+author: "Marliese"
+date: "2023-10-09"
+output: html_document
+---
+
+this apple is so nice and crispy
