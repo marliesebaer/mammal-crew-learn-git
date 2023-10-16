@@ -9,14 +9,14 @@ output: html_document
 
 
 
+##Introduction
 
+We are going to look at some forest ecology data!
 
-
-
-Set things up
+##Set things up
 
 ```{r}
-rm(list=ls())
+rm(list=ls()) #clear R brain
 library(ggplot2)
 library(dplyr)
 library(here)
